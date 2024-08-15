@@ -1,0 +1,113 @@
+{
+  "dietPlans": [
+      {
+        "name": "Keto Diet Plan",
+        "price": "Rs.2500",
+        "minimumDays": "30 days",
+        "dailyIntake": {
+          "breakfast": "Scrambled eggs with . . . . .",
+          "lunch": "Grilled chicken salad . . . . ."
+        },
+        "tutorials": [
+          { "name": "Tutorial #1", "link": "#" }
+        ]
+      },
+      {
+        "name": "Paleo Diet Plan",
+        "price": "Rs.2300",
+        "minimumDays": "30 days",
+        "dailyIntake": {
+          "breakfast": "Fruit smoothie with . . . . .",
+          "lunch": "Grilled chicken . . .  . . "
+        },
+        "tutorials": [
+          { "name": "Tutorial #1", "link": "#" }
+        ]
+      },
+      {
+        "name": "Vegan Diet Plan",
+        "price": "Rs.2200",
+        "minimumDays": "30 days",
+        "dailyIntake": {
+          "breakfast": "Oatmeal with . . . . .",
+          "lunch": "Quinoa salad with . . . . ."
+        },
+        "tutorials": [
+          { "name": "Tutorial #1", "link": "#" }
+        ]
+      },
+      {
+        "name": "Low-Carb Diet Plan",
+        "price": "Rs.2300",
+        "minimumDays": "30 days",
+        "dailyIntake": {
+          "breakfast": "Omelette with . . . . .",
+          "lunch": "Tuna salad . . . . ."
+        },
+        "tutorials": [
+          { "name": "Tutorial #1", "link": "#" }
+        ]
+      },
+      {
+        "name": "Detox Diet Plan",
+        "price": "Rs.2000",
+        "minimumDays": "14 days",
+        "dailyIntake": {
+          "breakfast": "Green smoothie . . . . .",
+          "lunch": "Vegetable soup . . . . ."
+        },
+        "tutorials": [
+          { "name": "Tutorial #1", "link": "#" }
+        ]
+      },
+      {
+        "name": "DASH Diet Plan",
+        "price": "Rs.2400",
+        "minimumDays": "30 days",
+        "dailyIntake": {
+          "breakfast": "Oatmeal with . . . . .",
+          "lunch": "Turkey and . . . . .p"
+        },
+        "tutorials": [
+          { "name": "Tutorial #1", "link": "#" }
+        ]
+      },
+      {
+        "name": "Whole30 Diet Plan",
+        "price": "Rs.2500",
+        "minimumDays": "30 days",
+        "dailyIntake": {
+          "breakfast": "Scrambled eggs . . . . .",
+          "lunch": "Grilled chicken  . . . . ."
+        },
+        "tutorials": [
+          { "name": "Tutorial #1", "link": "#" }
+        ]
+      },
+      {
+        "name": "Atkins Diet Plan",
+        "price": "Rs.2300",
+        "minimumDays": "30 days",
+        "dailyIntake": {
+          "breakfast": "Egg muffins . . . . .",
+          "lunch": "Caesar salad  . . . . ."
+        },
+        "tutorials": [
+          { "name": "Tutorial #1", "link": "#" }
+        ]
+      },
+      {
+        "name": "Zone Diet Plan",
+        "price": "Rs.2200",
+        "minimumDays": "30 days",
+        "dailyIntake": {
+          "breakfast": "Smoothie with protein . . . . .",
+          "lunch": "Grilled shrimp . . . . ."
+        },
+        "tutorials": [
+          { "name": "Tutorial #1", "link": "#" }
+        ]
+      }
+    
+  ]
+}

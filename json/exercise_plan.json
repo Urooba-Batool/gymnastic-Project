@@ -1,0 +1,85 @@
+{
+  "exercisePlans": [
+    {
+      "name": "Beginner Fitness",
+      "price": "Rs.2500",
+      "duration": "4 weeks",
+      "focus": "Building foundational strength and cardiovascular fitness",
+      "includes": [
+        "3 days of full-body workouts"
+      ]
+    },
+    {
+      "name": "Weight Loss",
+      "price": "Rs.5500",
+      "duration": "8 weeks",
+      "focus": "Fat loss and improved cardiovascular health",
+      "includes": [
+        "4 days of HIIT (High-Intensity Interval Training)"
+      ]
+    },
+    {
+      "name": "Muscle Building",
+      "price": "Rs.2700",
+      "duration": "12 weeks",
+      "focus": "Hypertrophy (muscle growth)",
+      "includes": [
+        "5 days of split routine workouts"
+      ]
+    },
+    {
+      "name": "Strength Training",
+      "price": "Rs.3500",
+      "duration": "8 weeks",
+      "focus": "Increasing overall strength",
+      "includes": [
+        "4 days of compound lifts"
+      ]
+    },
+    {
+      "name": "Endurance Training",
+      "price": "Rs.2500",
+      "duration": "10 weeks",
+      "focus": "Improving cardiovascular and muscular endurance",
+      "includes": [
+        "4 days of long-distance cardio"
+      ]
+    },
+    {
+      "name": "Functional Fitness",
+      "price": "Rs.3700",
+      "duration": "6 weeks",
+      "focus": "Improving everyday movement and athletic performance",
+      "includes": [
+        "4 days of functional training"
+      ]
+    },
+    {
+      "name": "Bodybuilding Prep",
+      "price": "Rs.6000",
+      "duration": "16 weeks",
+      "focus": "Preparing for a bodybuilding competition",
+      "includes": [
+        "6 days of targeted workouts"
+      ]
+    },
+    {
+      "name": "Senior Fitness",
+      "price": "Rs.5500",
+      "duration": "12 weeks",
+      "focus": "Maintaining strength, mobility, and balance in older adults",
+      "includes": [
+        "3 days of low-impact workouts"
+      ]
+    },
+    {
+      "name": "14 August Plan",
+      "price": "Rs.10000",
+      "duration": "14 weeks",
+      "focus": "Transform your strength, endurance, flexibility, and overall fitness.",
+      "includes": [
+        "Detailed weekly workout plans"
+      ]
+    }
+  ]
+}
