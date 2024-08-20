@@ -300,6 +300,40 @@
 
         <a href="maletrainers.html" class="view_pore boxed-btn" style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">View More</a>
 
+        <!-- tracker area -->
+        <div class="tracker overlay">
+            <div class="tracker-container">
+                <h2 class="track">Workout Progress Tracker</h2>
+                
+                <form id="workout-form" class="track-form">
+                    <label for="workout">Workout:</label>
+                    <input type="text" id="workout" required>
+                    
+                    <label for="start-date">Start Date:</label>
+                    <input type="date" id="start-date" required>
+                    
+                    <label for="end-date">End Date:</label>
+                    <input type="date" id="end-date" required>
+                    
+                    <label for="completed-reps">Completed Reps:</label>
+                    <input type="number" id="completed-reps" required>
+                    
+                    <label for="total-reps">Total Reps:</label>
+                    <input type="number" id="total-reps" required>
+                    
+                    <button type="submit" class="boxed-btn3 track-btn">Track Progress</button>
+                </form>
+                
+                <div id="progress-display" class="prot">
+                    <h3 class="track">Progress Report</h3>
+                    <p id="workout-summary"></p>
+                    <p id="progress-percentage"></p>
+                    <p id="remaining-reps"></p>
+                </div>
+            </div>
+        </div>
+
+        
         <!-- footer_start  -->
         <footer class="footer">
             <div class="footer_top">
